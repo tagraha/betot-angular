@@ -1,3 +1,5 @@
-"main": [
-  "angular/angular.min.js",
-]
+{
+  "name": "betotAngular",
+  "version": "0.0.1",
+  "private": "false"
+}
