@@ -1,4 +1,8 @@
 {
   "name": "betotAngular",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "main": "angular/angular.min.js",
+  "ignore": [],
+  "dependencies": {
+  }
 }
