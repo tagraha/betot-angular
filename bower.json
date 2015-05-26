@@ -6,3 +6,28 @@
   "dependencies": {
   }
 }
+
+{
+  "name": "angularbetot",
+  "description": "bower package angular punya betot",
+  "kewords": [
+    "betot"
+  ],
+  "version": "1.0.0",
+  "authors": [
+    "Betot"
+  ],
+  "license": "MIT",
+  "main": [
+    "angular/angular.min.js"
+  ],
+  "repository": {
+    "type": "git"
+  },
+  "ignore": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
