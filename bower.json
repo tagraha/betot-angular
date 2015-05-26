@@ -1,13 +1,4 @@
 {
-  "name": "betotAngular",
-  "version": "1.0.0",
-  "main": "angular/angular.min.js",
-  "ignore": [],
-  "dependencies": {
-  }
-}
-
-{
   "name": "angularbetot",
   "description": "bower package angular punya betot",
   "kewords": [
