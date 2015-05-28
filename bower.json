@@ -10,7 +10,7 @@
   ],
   "license": "MIT",
   "main": [
-    "angular/angular.min.js"
+    "angular.min.js"
   ],
   "repository": {
     "type": "git"
